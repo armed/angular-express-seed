@@ -2,6 +2,7 @@
   "globals": {
     "angular": false
   },
+  "-W033": true,
   "-W062": true,
   "asi": true,
   "expr": true,
