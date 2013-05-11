@@ -2,7 +2,7 @@
 
 ### Prerequisites
 
-1. [NodeJS](http://nodejs.org) 0.8.x, bower (v0.8.6) is buggy with 0.10.x at the moment
+1. [NodeJS](http://nodejs.org) 0.10.x
 2. [Bower](https://github.com/twitter/bower) ```npm install -g bower```
 3. [GruntJS](http://gruntjs.com) ```npm install -g grunt-cli```
 
