@@ -3,7 +3,7 @@ var express = require('express')
   , routes = require('./routes')
 var app = module.exports = express()
 
-// setings
+// settings
 app.configure(function () {
   app.set('view options', { layout: false })
     .set('views', __dirname + '/views')
